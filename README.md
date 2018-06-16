@@ -1,22 +1,13 @@
 # My First Web Page
 
-Welcome
-
-Hi there! Welcome to Cloud9 IDE!
-
-## To get you started, we included a small hello world application.
-
-### 1) Open the hello-world.html file
-
-#### 2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+Welcome!
 
 
-## Support & Documentation
+## This is the first step in creating my porfolio.
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### 1) This shows how to use # to generate different text size.
+
+#### 2) I am enjoying this course as I am learning a lot of new things.
+
+#### 3) I am hoping to be able to create a wonderful website while having fun!
+
